@@ -1,0 +1,1 @@
+("7.2" racket ("b174b53506a60e8f1e59e8d564248225f282a689" . "ba20b7ac6349737818ebd92eb6b372343e88a607") (collects #"br" #"datum.rkt") (collects #"forge" #"rosettemodels.rkt") (collects #"forged-ocelot" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rosette" #"lang" #"reader.rkt") (collects #"rosette" #"main.rkt"))

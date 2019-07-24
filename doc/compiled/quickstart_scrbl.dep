@@ -1,0 +1,1 @@
+("7.2" racket ("7a64d6e07e79317cb9603e83c56e7f9608061bb8" . "f192f3a6b0f7d472f0f2204b95e59d4bf509adbc") (collects #"forge" #"main.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))
